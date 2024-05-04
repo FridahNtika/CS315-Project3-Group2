@@ -22,6 +22,7 @@ Data for this study was collected from Wellesley College students, consisting of
 Methods
  
 Results
+
 Data Analysis
 
 To analyze the results of our research on whether Wellesley students view similar content on TikTok, we utilized these methods:
