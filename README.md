@@ -14,10 +14,6 @@ This repository contains code and data for a research project aimed at analyzing
 Introduction
 In recent years, social media platforms like TikTok have become integral parts of daily life, particularly among younger demographics. Understanding what type of content students engage with on TikTok sheds light on their interests and preferences, providing valuable insights for content creators, marketers, and researchers. This study focuses specifically on Wellesley College students to uncover their content consumption patterns and preferences.
 
-Literature Review
- 
-Data
-Data for this study was collected from Wellesley College students, consisting of 10 CSV files containing metadata on TikTok videos, as well as 1 JSON file containing video browsing history dates and URLs. The CSV files were processed using Python and the Pyktok package to extract relevant metadata for analysis.
 
 Methods
  
